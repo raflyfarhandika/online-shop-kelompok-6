@@ -90,7 +90,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-success shadow-sm fixed-top">
             <div class="container">
                 <a class="navbar-brand" href="#">
-                    <img src="<?=base_url("assets/new-logo.png")?>" width="90px" height="32px">
+                    <img src="<?=base_url("assets/img-coffee/new-logo.png")?>" width="90px" height="32px">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon "></span>
@@ -120,20 +120,20 @@
             <div class="container">
                 <div class="row mt-5">
                     <div class="col-lg-5 col-md-12 col-12">
-                        <img class="img-fluid rounded w-100 pb-2" id="main-img" src="<?=base_url("assets/kopi1.jpg")?>" >
+                        <img class="img-fluid rounded w-100 pb-2" id="main-img" src="<?=base_url("assets/img-coffee/kopi1.jpg")?>" >
 
                         <div class="small-img-group">
                             <div class="small-img-col">
-                                <img src="<?=base_url("assets/kopi1.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                <img src="<?=base_url("assets/img-coffee/kopi1.jpg")?>" width="100%" class="small-img rounded" alt="">
                             </div>
                             <div class="small-img-col">
-                                <img src="<?=base_url("assets/kopi2.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                <img src="<?=base_url("assets/img-coffee/kopi2.jpg")?>" width="100%" class="small-img rounded" alt="">
                             </div>
                             <div class="small-img-col">
-                                <img src="<?=base_url("assets/kopi3.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                <img src="<?=base_url("assets/img-coffee/kopi3.jpg")?>" width="100%" class="small-img rounded" alt="">
                             </div>
                             <div class="small-img-col">
-                                <img src="<?=base_url("assets/kopi4.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                <img src="<?=base_url("assets/img-coffee/kopi4.jpg")?>" width="100%" class="small-img rounded" alt="">
                             </div>
                         </div>
 
@@ -166,28 +166,28 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="product text-center col-lg-3 col-md-6 col-12">
-                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/sidikalang.png")?>" alt="">
+                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/img-coffee/sidikalang.png")?>" alt="">
                         <h5>Kopi Robusta Sidikalang</h5>
                         <h6>Rp 45.000</h6>
                         <div class="my-2"><button class="btn btn-secondary rounded">Details</button></div>
                         <div><button class="btn btn-success rounded">Buy</button></div>
                     </div>
                     <div class="product text-center col-lg-3 col-md-6 col-12">
-                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/lampung.png")?>" alt="">
+                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/img-coffee/lampung.png")?>" alt="">
                         <h5>Kopi Robusta Lampung</h5>
                         <h6>Rp 60.000</h6>
                         <div class="my-2"><button class="btn btn-secondary rounded">Details</button></div>
                         <div><button class="btn btn-success rounded">Buy</button></div>
                     </div>
                     <div class="product text-center col-lg-3 col-md-6 col-12">
-                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/flores.png")?>" alt="">
+                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/img-coffee/flores.png")?>" alt="">
                         <h5>Kopi Manggarai Robusta</h5>
                         <h6>Rp 53.000</h6>
                         <div class="my-2"><button class="btn btn-secondary rounded">Details</button></div>
                         <div><button class="btn btn-success rounded">Buy</button></div>
                     </div>
                     <div class="product text-center col-lg-3 col-md-6 col-12">
-                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/bengkulu.png")?>" alt="">
+                        <img class="img-fluid rounded mb-3" src="<?=base_url("assets/img-coffee/bengkulu.png")?>" alt="">
                         <h5>Kopi Robusta Bengkulu</h5>
                         <h6>Rp 35.000</h6>
                         <div class="my-2"><button class="btn btn-secondary rounded">Details</button></div>
@@ -206,7 +206,7 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-12">
                             <a class="navbar-brand" href="#">
-                                <img src="<?=base_url("assets/new-logo.png")?>" width="90px" height="32px">
+                                <img src="<?=base_url("assets/img-coffee/new-logo.png")?>" width="90px" height="32px">
                             </a>
                             <h6 class="mt-2 ms-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </h6>
                         </div>
@@ -235,16 +235,16 @@
                             <h5 class="white-font">Instagram Collections</h5>
                             <div class="small-img-group">
                                 <div class="small-img-col">
-                                    <img src="<?=base_url("assets/ig1.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                    <img src="<?=base_url("assets/img-coffee/ig1.jpg")?>" width="100%" class="small-img rounded" alt="">
                                 </div>
                                 <div class="small-img-col">
-                                    <img src="<?=base_url("assets/ig2.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                    <img src="<?=base_url("assets/img-coffee/ig2.jpg")?>" width="100%" class="small-img rounded" alt="">
                                 </div>
                                 <div class="small-img-col">
-                                    <img src="<?=base_url("assets/ig3.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                    <img src="<?=base_url("assets/img-coffee/ig3.jpg")?>" width="100%" class="small-img rounded" alt="">
                                 </div>
                                 <div class="small-img-col">
-                                    <img src="<?=base_url("assets/ig4.jpg")?>" width="100%" class="small-img rounded" alt="">
+                                    <img src="<?=base_url("assets/img-coffee/ig4.jpg")?>" width="100%" class="small-img rounded" alt="">
                                 </div>
                             </div>
                         </div>
